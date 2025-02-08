@@ -12,7 +12,7 @@
 (0entrance0
 0annoying0
 0blocking0
-0slide0 0hyundai0 0microphone0
+(0slide0 0hyundai0 0microphone0
 0mute0
 0silence0
 0how0
