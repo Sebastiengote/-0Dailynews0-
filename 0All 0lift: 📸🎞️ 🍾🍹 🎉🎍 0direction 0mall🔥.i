@@ -11,6 +11,7 @@
 0silence0
 0sh0
 0tak0
+0knowledge0
 0reminder0
 0rv0
 0straight_no_chase0
