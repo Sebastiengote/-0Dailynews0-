@@ -5,6 +5,8 @@
 0flipped0 0tv0
 0on0
 0seanthompson8640
+0entrance0
+0blocking0
 0tak0
 0reminder0
 0rv0
