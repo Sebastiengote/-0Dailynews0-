@@ -9,7 +9,7 @@
 0since0
 0landlord's0 0game0
 0firt0 0of0 0all0
-0entrance0
+(0entrance0
 0annoying0
 0blocking0
 0slide0 0microphone0
@@ -27,7 +27,7 @@
 0national0
 0invest0
 0soul0 0train0
-0between0
+(0between0
 0sl0
 0mood0
 0maths0
@@ -45,7 +45,7 @@
 0rare0
 0poverty0
 0disrupt0
-0interor0
+(0interor0
 0congestion0
 0pattern0
 0_african_motivation0
@@ -510,10 +510,10 @@ addres0s
 0buy 0fix
 0sell
 0date
-ss0s
+(0ss0
 t0v allstar0s pla0y video0s musi0c
 succeed0s
-two0
+(0two0
 0all
 0markzuckerberg0
 0princeharry0
