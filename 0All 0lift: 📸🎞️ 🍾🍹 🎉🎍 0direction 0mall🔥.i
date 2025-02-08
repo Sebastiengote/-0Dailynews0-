@@ -8,6 +8,7 @@
 0seanthompson8640
 0entrance0
 0blocking0
+0slide0 0microphone0
 0mute0
 0silence0
 0how0
