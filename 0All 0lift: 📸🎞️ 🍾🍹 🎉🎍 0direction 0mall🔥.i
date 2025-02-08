@@ -20,6 +20,7 @@
 0tak0
 0knowledge0
 0reminder0
+0ChatGPT0)
 0rv0
 0straight_no_chase0
 0poor0
