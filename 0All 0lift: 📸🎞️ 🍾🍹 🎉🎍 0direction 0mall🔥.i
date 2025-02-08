@@ -7,6 +7,9 @@
 0seanthompson8640
 0entrance0
 0blocking0
+0mute0
+0silence0
+0sh0
 0tak0
 0reminder0
 0rv0
