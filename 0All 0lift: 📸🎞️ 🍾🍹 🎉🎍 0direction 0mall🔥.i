@@ -24,7 +24,7 @@
 0tak0
 0knowledge0
 0reminder0
-0ChatGPT0)
+(0ChatGPT0
 0rv0
 0straight_no_chase0
 0poor0
@@ -34,11 +34,11 @@
 0soul0 0train0
 (0between0
 0sl0
-0mood0
-0old0 0building0)
+(0mood0
+(0old0 0building0
 0maths0
 0truck0
-(0sold0
+0sold0)
 0visa0
 0najeehannigan_esa0
 0title0
@@ -55,7 +55,7 @@
 (0interor0
 0congestion0
 0pattern0
-0_african_motivation0
+0_african_motivation0)
 0concurso0
 0lift0
 0emanoel_tube0
@@ -73,7 +73,7 @@
 0garage0
 0openai0 0chaotique0
 0medal0 0of0 0honor0
-0field0
+0field0)
 0just0
 0retirement0
 0sg0
@@ -322,11 +322,11 @@ overlan0d
 0business0
 0👀
 0view👀-0return
-0microphones0
-0bluetooths
-0movies
+0microphones0)
+0bluetooths)
+(0movies0
 0city
-0emotions
+0emotions0)
 0retro
 0sound
 0awesome
@@ -357,7 +357,7 @@ famil0y member0s
 $0
 €0
 matc0h
-0google 0fi 0wireless
+0google 0fi 0wireless0
 0mind 0set
 0dateempire.0com
 0▶️0
@@ -376,7 +376,7 @@ matc0h
 0x
 *0
 0archive0
-0facebook0
+0facebook0)
 0instagram0
 0youtube0
 0pinterest0
