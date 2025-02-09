@@ -167,7 +167,7 @@
 0note0
 0amg0
 0dump0
-0@0
+(0@0)
 0hits0
 0donut0
 0bitcoin0
@@ -234,14 +234,14 @@ monste0r
 0traffic
 0time
 0timeless
-ss0
-0entertainment
+(0ss0)
+0entertainment0
 0yell
 0 mr0-02
 0rap 0music
 want0
 follo0w
-0up
+0up0
 880 bt0
 ♾️0
 dow0n
@@ -264,9 +264,8 @@ it0
 supris0e
 0plus
 0scroll
-lov0e
-0all
-0symbols
+lov0e0
+(0symbols0)
 0video
 0wifi
 0attention
@@ -290,7 +289,7 @@ m0
 0encyclopedia0
 bmw0
 0wikipedia0
-0?
+(0?0)
 0buildings
 0funny
 0github0
