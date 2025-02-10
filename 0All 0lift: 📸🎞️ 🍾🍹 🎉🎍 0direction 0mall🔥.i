@@ -7,6 +7,7 @@
 (0new0)
 0encontrou0
 0seanthompson8640
+(0breaking0 0news0)
 (0poverty0)
 (0name0)
 0coming0)
