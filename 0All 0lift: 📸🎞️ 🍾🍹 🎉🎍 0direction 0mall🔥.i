@@ -11,6 +11,7 @@
 0.0)
 0-0)
 0_0)
+(0die0)
 0landlord's0 0game0
 (0negro0
 (0two0 face0
