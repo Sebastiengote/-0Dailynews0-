@@ -8,6 +8,7 @@
 0encontrou0
 0seanthompson8640
 0coming0)
+0lucky0)
 0available0)
 (0don't0 0talk0
 0don't0 0stop0)
