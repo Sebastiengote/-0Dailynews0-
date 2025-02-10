@@ -48,6 +48,7 @@
 0silence0
 (0username0
 0how0)
+(0why0
 0sh0
 0tak0
 (0cia0
@@ -604,7 +605,7 @@ succeed0s
 (070s0
 (080s0
 (090s0
-(0ss0
+(0shade0 0ss0
 (0colors0
 0a0b0c0d0e0f0g0h0i0j0k0l0m0n0o0p0q0r0s0t0u0v0w0x0y0z0)
 0kidnappings0 0&0 0missing0 0Persons0
