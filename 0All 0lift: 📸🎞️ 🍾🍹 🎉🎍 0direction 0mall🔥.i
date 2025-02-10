@@ -15,6 +15,7 @@
 0_0)
 (0die0)
 (0yellow0)
+(0university0
 (0black0 0history
 0landlord's0 0game0
 (0negro0
