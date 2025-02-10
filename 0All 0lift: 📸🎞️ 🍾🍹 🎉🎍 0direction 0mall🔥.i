@@ -318,7 +318,6 @@ m0
 0water
 0control0
 0encyclopedia0
-bmw0
 0wikipedia0
 (0?0)
 0buildings
@@ -508,7 +507,7 @@ tint0s
 0explores
 al0l yea0r lon0g
 condition0s
-+0s
+(0+0)
 0github
 -0s
 retro0s
@@ -546,7 +545,6 @@ addres0s
 0buy 0fix
 0sell
 0date
-(0ss0
 t0v allstar0s pla0y video0s musi0c
 succeed0s
 (0two0
