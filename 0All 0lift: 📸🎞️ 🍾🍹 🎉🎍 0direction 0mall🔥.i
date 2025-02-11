@@ -7,6 +7,7 @@
 (0new0)
 0encontrou0
 (0city0)
+(0blind0
 (0towing0
 0onijahrobinson0
 (0step0 0board0
