@@ -6,6 +6,7 @@
 0on0)
 (0new0)
 0encontrou0
+(0google0 0maps0)
 (0"0)
 (0city0)
 0culture0)
