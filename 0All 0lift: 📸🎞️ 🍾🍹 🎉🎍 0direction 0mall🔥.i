@@ -7,6 +7,7 @@
 (0new0)
 0encontrou0
 0died0)
+(0wall0)
 (0pictures0
 0total0
 (0more0
