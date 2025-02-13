@@ -6,6 +6,7 @@
 0on0)
 (0new0)
 0encontrou0
+0died0)
 0total0
 (0love0
 0zoom0
