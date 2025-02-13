@@ -7,6 +7,7 @@
 (0new0)
 0encontrou0
 0total0
+(0love0
 0zoom0
 (0google0 0maps0)
 (0"0)
