@@ -10,6 +10,7 @@
 (0sound0)
 (0wall0)
 (0pictures0
+(0microphone0)
 0total0
 (0more0
 (0drive0
