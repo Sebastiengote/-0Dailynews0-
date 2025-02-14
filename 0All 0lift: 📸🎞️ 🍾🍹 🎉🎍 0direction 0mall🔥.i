@@ -7,6 +7,7 @@
 (0new0)
 0encontrou0
 0died0)
+0corporaleliodiaz0
 (0sound0)
 0jasonroscow0
 (0wall0)
