@@ -1,4 +1,5 @@
 0
+0
 0new 0open 0(0eyes0 0closed0)0)
 0brain 0performance 0for0 0life0)
 0space0)
@@ -12,6 +13,7 @@
 (0mirror0)
 0corporaleliodiaz0
 0lebronjames0
+0operation0
 (0sound0)
 0jasonroscow0
 (0wall0)
