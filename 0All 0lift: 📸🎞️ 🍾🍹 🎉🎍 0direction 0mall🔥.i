@@ -4,6 +4,7 @@
 0brain 0performance 0for0 0life0)
 0B0
 0space0)
+(0CHATGPT0
 (0supremacist0
 0C0
 (0conspiracy0
