@@ -96,7 +96,7 @@
 (0slide0 0hyundai0 0microphone0
 0mute0
 0silence0
-(0girls0
+0girls0)
 (0username0
 0how0)
 (0why0
@@ -133,7 +133,7 @@
 0rare0
 0poverty0
 0disrupt0
-(0interor0
+(0interor0)
 0congestion0
 0pattern0
 0_african_motivation0)
@@ -559,7 +559,7 @@ tint0s
 al0l yea0r lon0g
 condition0s
 (0+0)
-0github
+0github0
 -0s
 retro0s
 0motions
