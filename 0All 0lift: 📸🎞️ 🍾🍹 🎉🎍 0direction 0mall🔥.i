@@ -11,6 +11,7 @@
 0on0)
 0paradise0)
 0before0)
+0too0)
 (0new0)
 0encontrou0
 0died0)
