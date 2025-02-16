@@ -289,7 +289,7 @@
 0pemilik0
 0finish0 0line0
 0family0
-0hp0
+(0hp0)
 0hotrod
 0nu0
 0rip0
@@ -327,7 +327,7 @@ want0
 follo0w
 0up0
 880 bt0
-♾️0
+(0♾️0
 dow0n
 0left
 mu0-020
